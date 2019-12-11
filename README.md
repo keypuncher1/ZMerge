@@ -1,7 +1,7 @@
 # ZMerge
 
 ================================================================================
-Session started at Wed Dec 11 2019 10:26:39 GMT-0600 (Central Standard Time)
+Session started at Wed Dec 11 2019 10:55:06 GMT-0600 (Central Standard Time)
 
 Building merge Locations
 Merge Folder: C:\MOInstalls\SkyrimSE\mods\Locations
@@ -36,6 +36,35 @@ Loading resources from Cutting Room Floor.bsa
 Loading resources from JKs Skyrim - Textures.bsa
 Loading resources from JKs Skyrim.bsa
 Loading resources from Bring Out Your Dead.bsa
+Loading resources from TacticalValtheim - Textures.bsa
+Loading resources from TacticalValtheim.bsa
+Loading resources from Shor's Stone - Textures.bsa
+Loading resources from Shor's Stone.bsa
+Loading resources from Ivarstead.bsa
+Loading resources from OldHroldanRuins.bsa
+Loading resources from Kynesgrove - Textures.bsa
+Loading resources from Kynesgrove.bsa
+Loading resources from Helarchen Creek - Textures.bsa
+Loading resources from Helarchen Creek.bsa
+Loading resources from Soljund's Sinkhole.bsa
+Loading resources from Karthwasten.bsa
+Loading resources from ogFalkreathHauntings - Textures.bsa
+Loading resources from ogFalkreathHauntings.bsa
+Loading resources from Blacksmith Forge Water Fix SE USSEP.bsa
+Loading resources from Dragon Bridge.bsa
+Loading resources from Gildergreen Regrown.bsa
+Loading resources from Castle Volkihar Rebuilt - Textures.bsa
+Loading resources from Castle Volkihar Rebuilt.bsa
+Loading resources from Darkwater Crossing - Textures.bsa
+Loading resources from Darkwater Crossing.bsa
+Loading resources from Dawnstar.bsa
+Loading resources from Fall of Granite Hill - Textures.bsa
+Loading resources from Fall of Granite Hill.bsa
+Loading resources from Falkreath.bsa
+Loading resources from Rorikstead - Textures.bsa
+Loading resources from Rorikstead.bsa
+Loading resources from Whistling Mine - Textures.bsa
+Loading resources from Whistling Mine.bsa
 Loading Skyrim.esm (1/59)
 Loading Update.esm (2/59)
 Loading Dawnguard.esm (3/59)
@@ -270,24 +299,24 @@ Copying records from LoS II - The Fall of Granite Hill patch.esp
 Copying records from Fall of Granite Hill.esp
 [WARN] Failed to copy record [REFR:310F40A9] (places Slightpost01 [STAT:000D8759] in GRUP Cell Temporary Children of ARTHGraniteHillNorth [CELL:00009A96] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-7)), Error: Failed to copy element Fall of Granite Hill.esp\310F40A9 to 49
 Duplicate FormID [310F40A9] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000658FA6){            } [0000004A72CD9FA6]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000449C06){            } [000000E14A54AC06]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -301,28 +330,28 @@ Duplicate FormID [310F40A9] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40AA] (places CandleLanternwithCandle01 [STAT:0002D847] in GRUP Cell Temporary Children of ARTHGraniteHillNorth [CELL:00009A96] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-7)), Error: Failed to copy element Fall of Granite Hill.esp\310F40AA to 49
 Duplicate FormID [310F40AA] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -336,28 +365,28 @@ Duplicate FormID [310F40AA] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40AB] (places ARTHCRFStreetLighting [LIGH:310FE2BC] in GRUP Cell Temporary Children of ARTHGraniteHillNorth [CELL:00009A96] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-7)), Error: Failed to copy element Fall of Granite Hill.esp\310F40AB to 49
 Duplicate FormID [310F40AB] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -371,28 +400,28 @@ Duplicate FormID [310F40AB] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40B1] (places CandleLanternwithCandle01 [STAT:0002D847] in GRUP Cell Temporary Children of ARTHGranitHillWest [CELL:00009AB8] (in Tamriel "Skyrim" [WRLD:0000003C] at -14,-8)), Error: Failed to copy element Fall of Granite Hill.esp\310F40B1 to 49
 Duplicate FormID [310F40B1] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -406,28 +435,28 @@ Duplicate FormID [310F40B1] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40B6] (places ARTHCRFStreetLighting [LIGH:310FE2BC] in GRUP Cell Temporary Children of ARTHGranitHillSouth [CELL:00009AD8] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-9)), Error: Failed to copy element Fall of Granite Hill.esp\310F40B6 to 49
 Duplicate FormID [310F40B6] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -441,28 +470,28 @@ Duplicate FormID [310F40B6] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40B7] (places CandleLanternwithCandle01 [STAT:0002D847] in GRUP Cell Temporary Children of ARTHGranitHillSouth [CELL:00009AD8] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-9)), Error: Failed to copy element Fall of Granite Hill.esp\310F40B7 to 49
 Duplicate FormID [310F40B7] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -476,28 +505,28 @@ Duplicate FormID [310F40B7] in file [3B] Locations.esp
     at getMergePlugins.forEachReverse (file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Skyrim%20Special%20Edition/ZEdit/resources/app.asar/app/app.js:9702:30)
 [WARN] Failed to copy record [REFR:310F40B8] (places Slightpost01 [STAT:000D8759] in GRUP Cell Temporary Children of ARTHGranitHillSouth [CELL:00009AD8] (in Tamriel "Skyrim" [WRLD:0000003C] at -13,-9)), Error: Failed to copy element Fall of Granite Hill.esp\310F40B8 to 49
 Duplicate FormID [310F40B8] in file [3B] Locations.esp
-(0000000000244BCC){XEditLib.dll} [000000000A6D5BCC] JclDebug.TJclStackInfoList.Create + $10C
-(00000000002447B8){XEditLib.dll} [000000000A6D57B8] JclDebug.JclCreateStackList + $48
-(00000000002446C7){XEditLib.dll} [000000000A6D56C7] JclDebug.DoExceptionStackTrace + $77
-(0000000000246032){XEditLib.dll} [000000000A6D7032] JclDebug.DoExceptNotify + $92
-(0000000000237675){XEditLib.dll} [000000000A6C8675] JclHookExcept.TNotifierItem.DoNotify + $35
-(00000000002378BB){XEditLib.dll} [000000000A6C88BB] JclHookExcept.DoExceptNotify + $BB
-(0000000000237A0D){XEditLib.dll} [000000000A6C8A0D] JclHookExcept.HookedRaiseException + $6D
-(000000000000F366){XEditLib.dll} [000000000A4A0366] System.@RaiseAtExcept + $106
-(000000000000F3D8){XEditLib.dll} [000000000A4A03D8] System.@RaiseAgain + $38
-(000000000027C212){XEditLib.dll} [000000000A70D212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
-(000000000027BAEA){XEditLib.dll} [000000000A70CAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
-(00000000002A0E61){XEditLib.dll} [000000000A731E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
-(00000000002A8534){XEditLib.dll} [000000000A739534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
-(000000000066B9DB){XEditLib.dll} [000000000AAFC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
-(0000000000670DA4){XEditLib.dll} [000000000AB01DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
-(0000000000008199){xelib.node  } [000007FEC5B99199]
-(00000000000003A6){xelib.node  } [000007FEC5B913A6]
-(0000000000433040){node.dll    } [000007FEC39E4040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
-(0000000000381223){node.dll    } [000007FEC3932223] Unknown function at ucal_equivalentTo_59 + $1763
-(0000000000380053){node.dll    } [000007FEC3931053] Unknown function at ucal_equivalentTo_59 + $593
-(000000000037FF3B){node.dll    } [000007FEC3930F3B] Unknown function at ucal_equivalentTo_59 + $47B
-(00000000002037A1){            } [0000004A728847A1]
+(0000000000244BCC){XEditLib.dll} [000000000A985BCC] JclDebug.TJclStackInfoList.Create + $10C
+(00000000002447B8){XEditLib.dll} [000000000A9857B8] JclDebug.JclCreateStackList + $48
+(00000000002446C7){XEditLib.dll} [000000000A9856C7] JclDebug.DoExceptionStackTrace + $77
+(0000000000246032){XEditLib.dll} [000000000A987032] JclDebug.DoExceptNotify + $92
+(0000000000237675){XEditLib.dll} [000000000A978675] JclHookExcept.TNotifierItem.DoNotify + $35
+(00000000002378BB){XEditLib.dll} [000000000A9788BB] JclHookExcept.DoExceptNotify + $BB
+(0000000000237A0D){XEditLib.dll} [000000000A978A0D] JclHookExcept.HookedRaiseException + $6D
+(000000000000F366){XEditLib.dll} [000000000A750366] System.@RaiseAtExcept + $106
+(000000000000F3D8){XEditLib.dll} [000000000A7503D8] System.@RaiseAgain + $38
+(000000000027C212){XEditLib.dll} [000000000A9BD212] wbImplementation.TwbMainRecord.Create (Line 6327, "wbImplementation.pas" + 11) + $75
+(000000000027BAEA){XEditLib.dll} [000000000A9BCAEA] wbImplementation.TwbMainRecord.Create (Line 6297, "wbImplementation.pas" + 71) + $0
+(00000000002A0E61){XEditLib.dll} [000000000A9E1E61] wbImplementation.TwbGroupRecord.AddIfMissingInternal (Line 11301, "wbImplementation.pas" + 391) + $46
+(00000000002A8534){XEditLib.dll} [000000000A9E9534] wbImplementation.TwbElement.AddIfMissing (Line 12367, "wbImplementation.pas" + 27) + $0
+(000000000066B9DB){XEditLib.dll} [000000000ADAC9DB] xeElements.CopyElementToFile (Line 860, "xeElements.pas" + 8) + $45
+(0000000000670DA4){XEditLib.dll} [000000000ADB1DA4] xeElements.CopyElement (Line 1735, "xeElements.pas" + 7) + $22
+(0000000000008199){xelib.node  } [000007FEF64F9199]
+(00000000000003A6){xelib.node  } [000007FEF64F13A6]
+(0000000000433040){node.dll    } [000007FEC4E54040] Unknown function at ?CreateFrameStateFunctionInfo@CommonOperatorBuilder@compiler@internal@v8@@QEAAPEBVFrameStateFunctionInfo@234@W4FrameStateType@234@HHV?$Handle@VSharedFunctionInfo@internal@v8@@@34@@Z + $3650
+(0000000000381223){node.dll    } [000007FEC4DA2223] Unknown function at ucal_equivalentTo_59 + $1763
+(0000000000380053){node.dll    } [000007FEC4DA1053] Unknown function at ucal_equivalentTo_59 + $593
+(000000000037FF3B){node.dll    } [000007FEC4DA0F3B] Unknown function at ucal_equivalentTo_59 + $47B
+(00000000002037A1){            } [000000E14A3047A1]
 
     at helpers.Fail (C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\helpers.js:63:15)
     at C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\ZEdit\resources\app.asar\node_modules\xelib\lib\elements.js:164:21
@@ -550,12 +579,10 @@ Copying records from Sanctuary Reborn.esp
 
 Handling asset files...
 ============================================================
-Handling Bethesda Archive Files
 Handling Face Data Files
 Handling Voice Data Files
 Handling General Assets
 Handling Script Fragments
-Handling Extracted Files
 Disabling merged plugins in plugins.txt
 
 Removing masters from merge...
