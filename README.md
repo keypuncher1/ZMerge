@@ -1,6 +1,6 @@
 # ZMerge
 
-'================================================================================
+================================================================================
 Session started at Wed Dec 11 2019 10:26:39 GMT-0600 (Central Standard Time)
 
 Building merge Locations
@@ -615,4 +615,4 @@ Created SEQ file: C:\MOInstalls\SkyrimSE\mods\Locations\seq\Locations.seq
 Saving merged plugin
 Saving additional merge data
 Unloading plugins
-Completed merge Locations.'
+Completed merge Locations.
